@@ -1,4 +1,4 @@
-# React Travel List Application
+# Far Away: React Travel List Application
 
 ## Description
 Small React application developed to practice the concepts of state management. This was developed alongside Jonas Schmedtmann on his course: The Ultimate React Course: Redux and More.
