@@ -15,7 +15,7 @@ Small React application developed to practice the concepts of state management. 
 - [Related Projects](#related-projects)
 
 
-![page-image](https://github.com/StormJose/travel-list/blob/main/src/img/app-screen.png?raw=true)
+![page-image](https://github.com/StormJose/travel-list/blob/main/src/img/app-screen.PNG?raw=true)
 
 ## Usage
 The app requires a browser a internet connection to use. 
@@ -25,7 +25,7 @@ Standard ISC license.
 
 ## Credits 
 This project relies on Create React App start up workspace.
-[https://create-react-app.dev)https://create-react-app.dev]
+[https://create-react-app.dev]
 
 ## Changelog
 
