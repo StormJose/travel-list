@@ -15,6 +15,8 @@ Small React application developed to practice the concepts of state management. 
 - [Related Projects](#related-projects)
 
 
+![page-image](https://github.com/StormJose/travel-list/blob/main/src/app-screen.png?raw=true)
+
 ## Usage
 The app requires a browser a internet connection to use. 
 
